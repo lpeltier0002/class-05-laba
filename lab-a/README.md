@@ -22,3 +22,5 @@ This lab will have starter code provided. Work with your instructor directly to 
 
 ### Submission Instructions
 Make sure your *master* branch is up to date with your most recent code. Create a new pull request on GitHub from your master branch to codefellows master branch, making sure that the left dropdown `base repository` says `codefellows/<your course code>` and the right dropdown `head repository` says `<your github username>/<lab name>`
+
+Test the process 
